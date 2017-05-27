@@ -5,6 +5,7 @@ public class indexController {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	    String str = "分支测试";
+	     	   str = "分支测试2";
 	}
 	public  void uiu(String[] args) {
 		// TODO Auto-generated method stub
